@@ -1,0 +1,22 @@
+{
+  "name": "cra-template",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "My create-react-app Template",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jack482653/cra-template.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
